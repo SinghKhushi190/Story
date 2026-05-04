@@ -1,2 +1,3 @@
-# Story
-my Story
+# Story 
+The Story Behind This Project ,Every project begins with a simple idea…
+and this one is no different.
